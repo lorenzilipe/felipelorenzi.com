@@ -1,97 +1,79 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Felipe Lorenzi
+    - name: Email
+      value: LorenziFelipe7@gmail.com
+    - name: LinkedIn
+      value: linkedin.com/in/felipe-lorenzi
+    - name: Phone
+      value: (914) 844-9940
+    - name: Location
+      value: San Diego, CA
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Graduate Student Researcher
+      institution: UC San Diego
+      year: Apr. 2024 – Sep. 2025
+      description:
+        - Conducted research investigating robust and trustworthy data analytics under Dr. Babak Salimi.
+        - Co-authored a paper submitted to VLDB 2025 introducing a framework for simulating data quality issues and exposing crucial vulnerabilities often overlooked in even the most robust ML pipelines.
+        - Led two research projects on conformal prediction, a robust uncertainty quantification method for AI/ML models.
+    - title: Data Analyst
+      institution: Hagerty Consulting
+      year: Dec. 2022 – Oct. 2023
+      description:
+        - Built tools and processes from scratch in Python, Excel, and VBA for regulatory compliance in an improvised, emergency response setting.
+        - Mediated communications with stakeholders and cross-functional teams belonging to four different organizations.
+        - Enhanced data collection processes for improved availability and accuracy while achieving speed ups of over 60%.
+        - Conducted QA/QC and developed remediation plans to reduce data discrepancy rates from over 10% to less than 5%.
+    - title: Data Scientist Intern
+      institution: Neighborly
+      year: Apr. 2022 – Jul. 2022
+      description:
+        - Utilized SQL, statistics, and machine learning models in Python to model franchise success rates in a self-led analysis.
+        - Presented analytical findings to C-suite executives and collaborated to conceive actionable insights.
+        - Streamlined survey design and data collection pipeline for efficiency and compatibility with future company datasets.
+        - Managed project timelines independently while working closely with the business intelligence team.
+    - title: Intern
+      institution: Catavento Book Distributor
+      year: Jun. 2020 – Oct. 2020
+      description:
+        - Trained and deployed a machine learning model in Python to rectify genre misclassifications of more than 30,000 books by leveraging natural language processing transformer models.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Data Management
+      year: 2025
+      description:
+        - Data Management: Collaborated in a team of three to create recommender system trained on tens of millions of data points scraped from Goodreads using Python, Docker, PostgreSQL, Neo4j, and Qdrant. (2025)
+    - title: Forecasting
+      year: 2023
+      description:
+        - Forecasting: Built database of daily car sales from Cars.com by creating web scraper in Python and analyzed for trends, saving money when purchasing a car a few months later. (2023)
+    - title: Machine Learning
+      year: 2022
+      description:
+        - Machine Learning: Analyzed brain EEG signals when listening to music using signal processing and machine learning in Python using libraries such as mne, scipy, librosa, and pytorch. (2022)
+    - title: Statistical Inference
+      year: 2021
+      description:
+        - Statistical Inference: Analyzed dataset of NYPD civilian complaints using Python to uncover evidence suggesting systematic bias against certain minority groups. (2021)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MS, Data Science
+      institution: University of California, San Diego
+      year: April 2026 (expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Graduate research in robust and trustworthy data analytics (uncertainty quantification for AI).
+    - title: BS, Cognitive Science with Specialization in Machine Learning
+      institution: University of California, San Diego
+      year: August 2022
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Data Science minor. 3.7 GPA
