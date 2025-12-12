@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lorenzilipe.github.io/felipelorenzi.com//sitemap.xml
+Sitemap: https://felipelorenzi.com/sitemap.xml
