@@ -17,14 +17,14 @@
   contents:
     - title: Graduate Student Researcher
       institution: UC San Diego
-      year: Apr. 2024 – Sep. 2025
+      year: 04.2024 – 09.2025
       description:
         - Conducted research investigating robust and trustworthy data analytics under Dr. Babak Salimi.
         - Co-authored a paper submitted to VLDB 2025 introducing a framework for simulating data quality issues and exposing crucial vulnerabilities often overlooked in even the most robust ML pipelines.
         - Led two research projects on conformal prediction, a robust uncertainty quantification method for AI/ML models.
     - title: Data Analyst
       institution: Hagerty Consulting
-      year: Dec. 2022 – Oct. 2023
+      year: 12.2022 – 10.2023
       description:
         - Built tools and processes from scratch in Python, Excel, and VBA for regulatory compliance in an improvised, emergency response setting.
         - Mediated communications with stakeholders and cross-functional teams belonging to four different organizations.
@@ -32,7 +32,7 @@
         - Conducted QA/QC and developed remediation plans to reduce data discrepancy rates from over 10% to less than 5%.
     - title: Data Scientist Intern
       institution: Neighborly
-      year: Apr. 2022 – Jul. 2022
+      year: 04.2022 – 07.2022
       description:
         - Utilized SQL, statistics, and machine learning models in Python to model franchise success rates in a self-led analysis.
         - Presented analytical findings to C-suite executives and collaborated to conceive actionable insights.
@@ -40,7 +40,7 @@
         - Managed project timelines independently while working closely with the business intelligence team.
     - title: Intern
       institution: Catavento Book Distributor
-      year: Jun. 2020 – Oct. 2020
+      year: 06.2020 – 10.2020
       description:
         - Trained and deployed a machine learning model in Python to rectify genre misclassifications of more than 30,000 books by leveraging natural language processing transformer models.
 
@@ -69,11 +69,11 @@
   contents:
     - title: MS, Data Science
       institution: University of California, San Diego
-      year: April 2026 (expected)
+      year: 04.2026
       description:
         - Graduate research in robust and trustworthy data analytics (uncertainty quantification for AI).
     - title: BS, Cognitive Science with Specialization in Machine Learning
       institution: University of California, San Diego
-      year: August 2022
+      year: 08.2022
       description:
         - Data Science minor. 3.7 GPA
