@@ -50,19 +50,19 @@
     - title: Data Management
       year: 2025
       description:
-        - Data Management: Collaborated in a team of three to create recommender system trained on tens of millions of data points scraped from Goodreads using Python, Docker, PostgreSQL, Neo4j, and Qdrant. (2025)
+        - "Data Management: Collaborated in a team of three to create recommender system trained on tens of millions of data points scraped from Goodreads using Python, Docker, PostgreSQL, Neo4j, and Qdrant. (2025)"
     - title: Forecasting
       year: 2023
       description:
-        - Forecasting: Built database of daily car sales from Cars.com by creating web scraper in Python and analyzed for trends, saving money when purchasing a car a few months later. (2023)
+        - "Forecasting: Built database of daily car sales from Cars.com by creating web scraper in Python and analyzed for trends, saving money when purchasing a car a few months later. (2023)"
     - title: Machine Learning
       year: 2022
       description:
-        - Machine Learning: Analyzed brain EEG signals when listening to music using signal processing and machine learning in Python using libraries such as mne, scipy, librosa, and pytorch. (2022)
+        - "Machine Learning: Analyzed brain EEG signals when listening to music using signal processing and machine learning in Python using libraries such as mne, scipy, librosa, and pytorch. (2022)"
     - title: Statistical Inference
       year: 2021
       description:
-        - Statistical Inference: Analyzed dataset of NYPD civilian complaints using Python to uncover evidence suggesting systematic bias against certain minority groups. (2021)
+        - "Statistical Inference: Analyzed dataset of NYPD civilian complaints using Python to uncover evidence suggesting systematic bias against certain minority groups. (2021)"
 
 - title: Education
   type: time_table
