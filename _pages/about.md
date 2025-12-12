@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MS Data Science at UC San Diego’s Halıcıoğlu Data Science Institute
 
 profile:
   align: right
